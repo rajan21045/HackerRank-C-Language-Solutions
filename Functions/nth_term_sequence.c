@@ -19,6 +19,7 @@ int find_nth_term(int n, int a, int b, int c) {
     // Use a loop to compute terms from 4 to n
     
     for (int i = 4; i <= n; i++) {
+        
         next = a + b + c; // Next term is the sum of previous three
         a = b;            // Shift values for the next iteration
         b = c;
@@ -29,6 +30,7 @@ int find_nth_term(int n, int a, int b, int c) {
 }
 
 int main() {
+    
     int n, a, b, c;
 
     // Take input for the term position and the first three terms
