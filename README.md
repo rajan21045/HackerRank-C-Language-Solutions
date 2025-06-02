@@ -20,5 +20,5 @@ These solutions are for educational purposes. You are encouraged to attempt the 
 
 For feedback, collaboration, or questions, feel free to reach out:
 
-	📧 Email: yourname@example.com
-	🌐 GitHub: @yourusername
+	📧 Email: raajan.works@example.com
+	🌐 GitHub: @rajan21045
