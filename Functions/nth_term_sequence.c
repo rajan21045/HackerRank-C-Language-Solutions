@@ -26,6 +26,7 @@ int find_nth_term(int n, int a, int b, int c) {
         c = next;
         
     }
+    
     return c; // Return the nth term
 }
 
