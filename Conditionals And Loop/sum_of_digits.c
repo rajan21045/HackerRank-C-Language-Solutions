@@ -10,6 +10,7 @@ calculates the sum of its digits. Print the result as output.
 #include <stdlib.h>
 
 int main() {
+    
     int n;
     scanf("%d", &n);  // Read the five-digit integer from input
 
