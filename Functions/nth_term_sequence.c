@@ -27,7 +27,8 @@ int find_nth_term(int n, int a, int b, int c) {
         
     }
     
-    return c; // Return the nth term
+    // Return the nth term
+    return c; 
 }
 
 int main() {
