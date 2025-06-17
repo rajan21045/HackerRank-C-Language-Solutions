@@ -26,7 +26,8 @@ int main()
      
      printf("%d %d \n",sum, diff);
      printf("%.1f %.1f \n",suum, di);
-    return 0;
+     
+     return 0;
 }
 
 /*
