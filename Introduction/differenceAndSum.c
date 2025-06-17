@@ -25,7 +25,7 @@ int main()
      diff = a-b;
      
      printf("%d %d \n",sum, diff);
-    printf("%.1f %.1f \n",suum, di);
+     printf("%.1f %.1f \n",suum, di);
     return 0;
 }
 
