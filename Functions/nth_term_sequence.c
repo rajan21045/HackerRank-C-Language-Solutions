@@ -15,6 +15,7 @@ int find_nth_term(int n, int a, int b, int c) {
     if (n == 2) return b;
     if (n == 3) return c;
 
+
     int next;
     // Use a loop to compute terms from 4 to n
     
