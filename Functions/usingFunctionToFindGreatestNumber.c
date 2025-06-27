@@ -11,9 +11,10 @@ There is not built in max function in C. Code that will be reused is often put i
 #include <stdio.h>
 
 int max_of_four(int a,int b, int c,int d){
-    int max;
     
+    int max;
     max = a;
+    
     if(b> max){
         max = b;
     }
