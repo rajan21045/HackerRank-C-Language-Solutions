@@ -10,7 +10,7 @@ void update(int *a,int *b) {
     *b = abs(c -d);
     
 }
- 
+  
 int main() {
     int a, b;
     int *pa = &a, *pb = &b;
