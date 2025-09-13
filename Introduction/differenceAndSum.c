@@ -10,7 +10,7 @@ int main()
      
      int sum=0;
      int diff=0;
-     
+      
      float c,d;
      scanf("%f %f",&c, &d);
      
