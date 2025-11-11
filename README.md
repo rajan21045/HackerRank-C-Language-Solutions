@@ -1,6 +1,6 @@
 #  C Language – HackerRank Problem Solutions 
 
-This repository contains my solutions to various C programming challenges from HackerRank. Each problem is solved with clear logic, properly formatted code, and inline comments for better understanding.
+This repository contains my solutions to various C programming challenges from HackerRank. Each problem is solved with clear logic, properly formatted code, and inline comments for better understanding.  
 
 # 🎯 Purpose
 
