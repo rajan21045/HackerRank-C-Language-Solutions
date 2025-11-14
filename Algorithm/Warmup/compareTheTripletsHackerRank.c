@@ -9,7 +9,6 @@ The task is to calculate their comparison points by comparing each category:
 2. If a[i] < b[i], then Bob is awarded 1 point.
 3. If a[i] = b[i], then neither person receives a point.
 
-
 Example
 a = [1, 2, 3]
 b = [3, 2, 1]
