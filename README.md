@@ -4,10 +4,10 @@ This repository contains my solutions to various C programming challenges from H
 
 # 🎯 Purpose
 
-	Practice C programming through real coding challenges.
-	Improve problem-solving and algorithmic thinking.
-	Strengthen foundational knowledge for exams, interviews, and technical assessments.
-	Share solutions with peers and contribute to the coding community.
+1. Practice C programming through real coding challenges.
+2. Improve problem-solving and algorithmic thinking.
+3. Strengthen foundational knowledge for exams, interviews, and technical assessments.
+4. Share solutions with peers and contribute to the coding community.
 
 # 🤝 Contributions
 
