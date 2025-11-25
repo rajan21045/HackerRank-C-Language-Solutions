@@ -8,7 +8,7 @@ This repository contains my solutions to various C programming challenges from H
 2. Improve problem-solving and algorithmic thinking.
 3. Strengthen foundational knowledge for exams, interviews, and technical assessments.
 4. Share solutions with peers and contribute to the coding community.
-
+ 
 # 🤝 Contributions
 
 You are welcome to fork this repository, improve the solutions, or add your own. Let’s grow together as better programmers.
